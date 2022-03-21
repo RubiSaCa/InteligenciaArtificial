@@ -1,0 +1,1 @@
+print("-Blanco.\n-Rosa.\n-Azul.\n-Morado.\n-Gris.\n-Verde.\n-Rojo.")
